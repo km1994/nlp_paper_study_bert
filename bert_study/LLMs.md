@@ -223,6 +223,8 @@
 14. [GPT-NEO](https://arxiv.org/abs/2101.00027)
 15. [GPT-NeoX](https://arxiv.org/pdf/2204.06745.pdf)
 16. [Alpaca: A Strong Open-Source Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+17. [大规模神经对话系统研究前沿趋势分析报告](https://mp.weixin.qq.com/s/d98AfgZZtCfskLW3ZUoVwA)
+18. [总结当下可用的大模型LLMs](https://zhuanlan.zhihu.com/p/611403556)
 
 
 
